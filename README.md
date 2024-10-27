@@ -11,7 +11,7 @@
     <li>🌱 Aprendiendo tecnologías como ASP.NET Core y SignalR.</li>
 </ul>
 
-<h2>🛠 &nbsp Skill<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>🛠 &nbsp Skill<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,cs,cpp,java,py,js,css,html,js,dotnet,mysql,bootstrap" />
@@ -38,7 +38,7 @@
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>Fun Corner 🎮<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>Fun Corner 🎮<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <div align="center">
 
