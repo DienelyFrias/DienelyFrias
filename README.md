@@ -43,7 +43,7 @@
 <div align="center">
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]
+![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
 
 
 <p align = "center">
