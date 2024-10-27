@@ -29,10 +29,6 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
 
 <a href="https://github.com/Davekibh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DienelyFrias&theme=tokyonight" />
