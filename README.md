@@ -3,7 +3,7 @@
 
 
 <h2>Abut Me<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="200px"  align="right" alt="Github" src="https://i.pinimg.com/originals/0a/d5/bb/0ad5bb032b0d35e4f27edcd713e67614.gif" />
 
 <ul>
     <li>🎓 Estudiante de Software.</li>
