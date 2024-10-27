@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="left">Tool</h3>
+<h3 align="left">-Tool</h3>
 <p align="rigt">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,wordpress,figma,ps,xd,idea,visualstudio,vscode,postman" />
