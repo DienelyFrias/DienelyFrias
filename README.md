@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
 
-<h3 align="center">Software Development Student 💻✨</h3>
+<h3 align="center">Software Development 💻✨</h3>
 
 <h2>
   About Me
