@@ -58,10 +58,10 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <h3>Spotify Playing 🎧</h3>
   <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing">
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
